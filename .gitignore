@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+backend/.venv/
+backend/__pycache__/
+backend/**/*.pyc
+backend/data/*.csv
+backend/models/*.joblib
+backend/models/evaluation.json
